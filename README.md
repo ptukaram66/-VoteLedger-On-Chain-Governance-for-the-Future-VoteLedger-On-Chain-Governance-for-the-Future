@@ -30,13 +30,27 @@ The demo covers:
 ## 🌐 Production Dashboard
 **🔗 [Open Live](https://nexsuspoll.vercel.app)**
 
+---
+
+## 📸 Screenshots
+
+### 🖥️ Desktop View
+![NexusPoll Desktop Screenshot](media/desktop.png)
+
+### 📱 Mobile View
+![NexusPoll Mobile Screenshot](media/mobile.png)
+
+---
+
 ## 📱 Mobile Quick Access
-Scan this QR code to open the VoteLedger protocol on your mobile device instantly. The UI is 100% optimized for mobile browsers.
+Scan this QR code **or tap the link below** to open NexusPoll on your mobile device instantly. The UI is 100% optimized for mobile browsers.
 
 <div align="center">
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://nexsuspoll.vercel.app" alt="NexusPoll QR Code" width="160"/>
-  <br/>
-  <b><a href="https://nexsuspoll.vercel.app">nexsuspoll.vercel.app</a></b>
+  <br/><br/>
+  <a href="https://nexsuspoll.vercel.app" style="display:inline-block;background:#00e5c7;color:#0a0a0f;font-weight:700;padding:12px 28px;border-radius:8px;font-size:18px;text-decoration:none;">📲 &nbsp;Open on Mobile</a>
+  <br/><br/>
+  <sub><a href="https://nexsuspoll.vercel.app">https://nexsuspoll.vercel.app</a></sub>
 </div>
 
 ---
@@ -191,3 +205,4 @@ stellar contract deploy --wasm target/wasm32-unknown-unknown/release/contract.wa
 <p align="center">
   <strong>Built for the Stellar Development Challenge · 2026 · NexusPoll Protocol</strong>
 </p>
+
